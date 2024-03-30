@@ -1,0 +1,67 @@
+.body {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.menu ul {
+  list-style: none;
+  font-size: 1.5em;
+  margin: 0 auto;
+  padding: 0 auto ;
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  
+}
+
+a {
+  text-decoration: none;
+  background: #eee;
+  padding: 10px 20px;
+  display: block;
+  color: black;
+}
+
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding: 25px ;
+  margin: 25px;
+  font-size: 1.9em;
+  display: flex;
+  justify-content: center;
+  font-style: italic;
+  color: purple;
+}
+
+.description-1 li {
+  list-style: none;
+  text-align: left;
+  font-size: 1.5em;
+}
+
+.lyrics {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 1.9em;
+  display: flex;
+  justify-content: center;
+  padding: 25px;
+  margin: 25px;  
+  color: darkgreen;
+}
+
+p {
+  font-size: larger;
+  text-align: left;
+}
+
+
+
+
+
+
+
+
+
+
